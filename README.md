@@ -1,3 +1,5 @@
+# SmartSnake
+
 SmartSnake and SmartSnakeV1 are the classical snake game but they can be played by a Neural Network. 
 The idea is that you can make your own modifications to the code and if you have some QUESTIONS plz ask me (gastonraraujo@gmail.com)
 
