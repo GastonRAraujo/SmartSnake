@@ -6,7 +6,7 @@ In the following files, you will find the Jupyter Notebook code for the game, th
 
 
 
-“SmartSnake” is the HUMAN played version
+“Snake.py”/“Snake.ipynb” are the HUMAN played version
 
 “SmartSnake_V1” is the non-HUMAN played version.
 
